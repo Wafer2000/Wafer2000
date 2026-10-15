@@ -48,7 +48,7 @@ I distinguish **professional experience**, **hands-on project work** and **techn
 
 ## Connect
 
-[Portfolio](https://mario-portfolio-r8la.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/mariofernandogonsalvezarias/) · [Email](mailto:mariofernandogonsalvez@gmail.com)
+[Portfolio](https://mario-portfolio-r8la.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/mariofernandogonsalvezarias/)
 
 ---
 *Production and client repositories remain private where required by ownership, confidentiality or security considerations.*
