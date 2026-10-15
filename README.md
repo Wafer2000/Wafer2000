@@ -23,12 +23,12 @@ The complete source code of certain production or commercial applications is pri
 
 | Project | Focus |
 |---|---|
-| **Commerce & Credit Platform** | Next.js, TypeScript, Supabase, inventory, sales, installment logic, validation and integration tests |
-| **MusicLinks Licensing & Integrations** | Python, PowerShell, C#, Supabase Edge Functions, API integrations, license lifecycle and tests |
-| **Multi-Provider Playlist Platform** | Next.js, TypeScript, Supabase, OAuth, API integrations, playlists and transfer workflows |
-| **Cloud-Connected Digital Marketplace** | Flutter, Firebase, Cloud Functions, BLoC, CI/CD and integrations |
-| **Container Operations Platform** | Next.js, PostgreSQL, Supabase, access control, PWA/offline workflows and reporting |
-| **Ruta Cero — Financial Planning App** | Flutter, Riverpod, SQLite/Drift, Supabase, offline-first architecture and domain engines |
+| [**Commerce & Credit Platform**](./case-studies/commerce-credit-platform.md) | Next.js, TypeScript, Supabase, inventory, sales, installment logic, validation and integration tests |
+| [**MusicLinks Licensing & Integrations**](./case-studies/musiclinks-licensing.md) | Python, PowerShell, C#, Supabase Edge Functions, API integrations, license lifecycle and tests |
+| [**Multi-Provider Playlist Platform**](./case-studies/multi-provider-playlist-platform.md) | Next.js, TypeScript, Supabase, OAuth, API integrations, playlists and transfer workflows |
+| [**Cloud-Connected Digital Marketplace**](./case-studies/cloud-connected-digital-marketplace.md) | Flutter, Firebase, Cloud Functions, BLoC, CI/CD and integrations |
+| [**Container Operations Platform**](./case-studies/container-operations-platform.md) | Next.js, PostgreSQL, Supabase, access control, PWA/offline workflows and reporting |
+| [**Ruta Cero — Financial Planning App**](./case-studies/ruta-cero.md) | Flutter, Riverpod, SQLite/Drift, Supabase, offline-first architecture and domain engines |
 
 For selected case studies, project context and professional background, visit my **[portfolio](https://mario-portfolio-r8la.vercel.app/)**.
 
